@@ -1,5 +1,5 @@
-https://mice-thinkpad-dear-wage.trycloudflare.com
+https://lauren-clinic-surf-consists.trycloudflare.com
 
 # Este archivo le dice a la app NIVRA dónde está el servidor.
 # La primera línea es la única que se lee; el resto son comentarios.
-# Actualizado: 2026-08-21T06:08:41.100Z
+# Actualizado: 2026-08-21T17:13:32.671Z
