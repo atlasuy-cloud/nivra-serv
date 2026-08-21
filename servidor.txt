@@ -1,5 +1,5 @@
-https://reaching-locally-lens-former.trycloudflare.com
+https://portion-carry-distinction-vector.trycloudflare.com
 
 # Este archivo le dice a la app NIVRA dónde está el servidor.
 # La primera línea es la única que se lee; el resto son comentarios.
-# Actualizado: 2026-08-21T04:25:09.451Z
+# Actualizado: 2026-08-21T06:07:29.351Z
