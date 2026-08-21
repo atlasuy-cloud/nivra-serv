@@ -1,3 +1,5 @@
-https://pendiente.invalid
+https://reaching-locally-lens-former.trycloudflare.com
 
-# Todavia no se publico ninguna direccion real.
+# Este archivo le dice a la app NIVRA dónde está el servidor.
+# La primera línea es la única que se lee; el resto son comentarios.
+# Actualizado: 2026-08-21T04:25:09.451Z
