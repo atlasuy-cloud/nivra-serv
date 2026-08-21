@@ -1,5 +1,5 @@
-https://movies-operates-bedrooms-properties.trycloudflare.com
+https://mice-thinkpad-dear-wage.trycloudflare.com
 
 # Este archivo le dice a la app NIVRA dónde está el servidor.
 # La primera línea es la única que se lee; el resto son comentarios.
-# Actualizado: 2026-08-21T06:08:39.308Z
+# Actualizado: 2026-08-21T06:08:41.100Z
