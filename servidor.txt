@@ -1,5 +1,5 @@
-https://lauren-clinic-surf-consists.trycloudflare.com
+https://detector-tue-variables-bracelet.trycloudflare.com
 
 # Este archivo le dice a la app NIVRA dónde está el servidor.
 # La primera línea es la única que se lee; el resto son comentarios.
-# Actualizado: 2026-08-21T17:13:32.671Z
+# Actualizado: 2026-08-23T05:00:23.997Z
