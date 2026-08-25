@@ -1,5 +1,5 @@
-https://distant-mixer-extend-hearts.trycloudflare.com
+https://booth-max-prevention-celtic.trycloudflare.com
 
 # Este archivo le dice a la app NIVRA dónde está el servidor.
 # La primera línea es la única que se lee; el resto son comentarios.
-# Actualizado: 2026-08-24T15:23:13.068Z
+# Actualizado: 2026-08-25T01:40:02.193Z
