@@ -1,5 +1,5 @@
-https://booth-max-prevention-celtic.trycloudflare.com
+https://reproduction-pressed-influences-bacon.trycloudflare.com
 
 # Este archivo le dice a la app NIVRA dónde está el servidor.
 # La primera línea es la única que se lee; el resto son comentarios.
-# Actualizado: 2026-08-25T01:40:02.193Z
+# Actualizado: 2026-08-26T20:34:00.000Z
