@@ -1,5 +1,5 @@
-https://reproduction-pressed-influences-bacon.trycloudflare.com
+https://stranger-usd-pressed-falls.trycloudflare.com
 
 # Este archivo le dice a la app NIVRA dónde está el servidor.
 # La primera línea es la única que se lee; el resto son comentarios.
-# Actualizado: 2026-08-26T20:34:00.000Z
+# Actualizado: 2026-08-27T15:55:00.000Z
