@@ -1,5 +1,5 @@
-https://stream-christine-muscles-partner.trycloudflare.com
+https://delaware-muscles-achieve-head.trycloudflare.com
 
 # Este archivo le dice a la app NIVRA dónde está el servidor.
 # La primera línea es la única que se lee; el resto son comentarios.
-# Actualizado: 2026-08-30T15:01:59.545Z
+# Actualizado: 2026-08-30T16:13:10.661Z
