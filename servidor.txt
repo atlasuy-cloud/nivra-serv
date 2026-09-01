@@ -1,4 +1,4 @@
-https://underuse-clubbing-turbojet.ngrok-free.dev
+https://snowshoe-happy-decorated.ngrok-free.dev
 
 # Este archivo le dice a la app NIVRA donde esta el servidor.
 # La primera linea es la unica que se lee; el resto son comentarios.
