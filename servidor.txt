@@ -1,5 +1,8 @@
-https://parts-saskatchewan-pensions-complimentary.trycloudflare.com
+https://underuse-clubbing-turbojet.ngrok-free.dev
 
-# Este archivo le dice a la app NIVRA dónde está el servidor.
-# La primera línea es la única que se lee; el resto son comentarios.
-# Actualizado: 2026-08-31T00:57:09.419Z
+# Este archivo le dice a la app NIVRA donde esta el servidor.
+# La primera linea es la unica que se lee; el resto son comentarios.
+#
+# Desde el 31/08/2026 el tunel es ngrok con dominio FIJO, asi que esta
+# direccion ya no cambia: no hay que volver a tocar este archivo en cada
+# arranque como pasaba con Cloudflare.
